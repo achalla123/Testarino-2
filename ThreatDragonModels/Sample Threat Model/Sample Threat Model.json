@@ -1,0 +1,11 @@
+{
+  "summary": {
+    "title": "Sample Threat Model",
+    "owner": "Aditya",
+    "description": "Just a sample threat model from the class."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": []
+  }
+}
